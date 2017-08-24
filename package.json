@@ -1,0 +1,17 @@
+{
+  "name": "node-todo-with-mongo-and-express",
+  "version": "1.0.0",
+  "description": "this is a todo list for learning mongodb-expressjs-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "enesmaliksayan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.8"
+  }
+}
